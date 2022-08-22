@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+    background-color: #fff;
+    justify-content: space-between;
+    align-items: center;
+    height: 66px;
+    padding: 0 20px;
+    
+}
+.header-left{
+    font-size: 15px;
+    font-family: Roboto-bold;
+}
+.header-right{
+    display: flex;
+    align-items: center;
+
+}
+.header-right-text{
+    font-weight: bold;
+    font-size: 15px;
+}
+.header-right-time{
+    display: flex;
+    margin: 0 13px 0 26px;
+    background-color: #D1EDF4;
+
+}
+.icon-change{
+    cursor: pointer;
+    margin-left: 14px;
+}
+.header-right-icon{
+    display: flex;
+}
+.header-right-icon-space{
+    margin-left: 18px;
+}
+.icon-down-position{
+    margin-left: 7px;
+    margin-top: 7px;
+}

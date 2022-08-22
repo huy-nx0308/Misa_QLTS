@@ -1,0 +1,35 @@
+.table{
+    overflow: auto;
+    height: calc(100vh - 66px - 60px - 20px);
+    border-radius: 3px;
+    border: 1px solid rgb(32 26 25 / 34%) ;
+    position: relative;
+    cursor: pointer;
+    background-color: #fff;
+}
+.table-content{
+    font-size: 13px;
+    border-collapse: collapse;
+    border: unset;
+    border-spacing: unset;
+    width: 100%;
+}
+thead{
+    height: 38px;   
+    background-color: #f4f7ff;
+}
+thead th{
+    text-align: left;
+}
+tbody tr{
+    height: 40px;
+    border-bottom: 1px solid #0000001a;
+}
+tbody td th{
+    text-align: left;
+}
+.table-footer{
+    height: 40px;
+    display: flex;
+    background-color: red;
+}

@@ -1,0 +1,52 @@
+@import url(./layouts/navbar.css);
+@import url(./layouts/page-right.css);
+@import url(./base/icon.css);
+@import url(./base/input.css);
+@import url(./base/button.css);
+@import url(./base/table.css);
+
+@font-face {
+    font-family: Roboto-regular;
+    src: url(../assets/font/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: Roboto-italic;
+    src: url(../assets/font/Roboto-Italic.ttf);
+}
+
+@font-face {
+    font-family: Roboto-bold;
+    src: url(../assets/font/Roboto-Bold.ttf);
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto-regular;
+}
+.container{
+    width: 100%;
+    display: flex;
+    height: 100vh;
+}
+::-webkit-scrollbar {
+    background-color: #cdd3d6;
+    border-radius: 1px;
+    width: 4px;
+    height: 4px;
+    overflow: hidden;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #fff; 
+    border-radius: 5px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background-color: #cdd3d6;
+    border-radius: 5px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(181, 201, 229, 0.603); 
+  }

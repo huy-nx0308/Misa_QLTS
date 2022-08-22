@@ -1,0 +1,33 @@
+.input-search{
+    background-color: #ffffff;
+    border-radius: 2.5px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.input{
+    height: 35px;
+    border: 1px solid #afafaf;
+    border-radius: 3px;
+    font-size: 14px;
+    outline: none;
+}
+.input::placeholder{
+    font-family: Roboto-italic;
+    font-size: 14px;
+}
+.input-search-icon{
+    position: absolute;
+    margin:0 10px;
+}
+.input-search-text{
+    padding-left: 35px;
+}
+.input-asset-type{
+    padding-left: 35px;
+}
+
+.input-used-part{
+    padding-left: 35px;
+}

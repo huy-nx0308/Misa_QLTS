@@ -1,0 +1,40 @@
+.filter{
+    font-family: Roboto-regular;
+    height: 60px;
+   
+    align-items: center;
+    margin: 0 20px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.filter-left{
+
+    display: flex;
+}
+
+.asset-type-container{
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+.cb-icon-left{
+    position: absolute;
+    margin: 0 10px;
+}
+
+.cb-icon-right{
+    position: absolute;
+    right: 10px;
+}
+
+.used-part-container{
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+
+.filter-right{
+   
+    display: flex;
+}

@@ -1,0 +1,50 @@
+.btn{
+    border-radius: 3px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+
+}
+button{
+    border: none;
+}
+.btn-add{
+    background-color: #1AA4C8;
+    width: 110px;
+    height: 36px;
+    border: 1px solid #1aa4c8;
+}
+.btn-add-container{
+    display: flex;
+    align-items: center;
+}
+.btn-add-text{
+    color: #fff;
+    height: 14px;
+    font-size: 12px;
+    font-family: Roboto-regular;
+    margin-left:3px;
+}
+.btn-export{
+
+    margin: 0 10px;
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 1px 1px 2px #0000003d;
+    width: 36px;
+    height: 36px;
+    align-items: center;
+    display: flex;  
+    justify-content: center
+}
+
+.btn-delete{
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 1px 1px 2px #0000003d;
+    width: 36px;
+    height: 36px;
+    align-items: center;
+    display: flex;  
+    justify-content: center
+}

@@ -1,0 +1,16 @@
+@import url(./header.css);
+@import url(./filter.css);
+@import url(./content.css);
+
+.page-right{
+    width: calc(100% - 226px) ;
+    
+}
+.page-right-body{
+    background-color:#F4F7FF;
+    height: calc(100vh - 66px);
+}
+
+
+
+
