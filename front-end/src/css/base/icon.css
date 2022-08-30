@@ -4,6 +4,7 @@
     background: url('../../assets/icon/qlts-icon.svg') no-repeat -20px -680px;
 	width: 36px;
 	height: 36px;
+	cursor: pointer;
 }
 /*icon tổng quan khi chưa click vào*/
 .icon-overview{
@@ -187,4 +188,11 @@
 	background: url('../../assets/icon/qlts-icon.svg') no-repeat -463px -111px;
 	width: 18px;
 	height: 18px;
+ }
+
+ .icon-close{
+	background: url('../../assets/icon/qlts-icon.svg') no-repeat -375px -287px;
+	width: 18px;
+	height: 18px;
+	cursor: pointer;
  }

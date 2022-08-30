@@ -1,0 +1,6 @@
+D:\Misa_QLTS\Misa_QLTS\backend\MISA.Web07.NXHuy.HCSN\MISA.HCSN.Common\bin\Debug\MISA.HCSN.Common.dll
+D:\Misa_QLTS\Misa_QLTS\backend\MISA.Web07.NXHuy.HCSN\MISA.HCSN.Common\bin\Debug\MISA.HCSN.Common.pdb
+D:\Misa_QLTS\Misa_QLTS\backend\MISA.Web07.NXHuy.HCSN\MISA.HCSN.Common\obj\Debug\MISA.HCSN.Common.csproj.AssemblyReference.cache
+D:\Misa_QLTS\Misa_QLTS\backend\MISA.Web07.NXHuy.HCSN\MISA.HCSN.Common\obj\Debug\MISA.HCSN.Common.csproj.CoreCompileInputs.cache
+D:\Misa_QLTS\Misa_QLTS\backend\MISA.Web07.NXHuy.HCSN\MISA.HCSN.Common\obj\Debug\MISA.HCSN.Common.dll
+D:\Misa_QLTS\Misa_QLTS\backend\MISA.Web07.NXHuy.HCSN\MISA.HCSN.Common\obj\Debug\MISA.HCSN.Common.pdb

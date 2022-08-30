@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.Web07.NXHuy.HCSN.API\\MISA.Web07.NXHuy.HCSN.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.BL\\MISA.HCSN.BL.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.BL\\MISA.HCSN.BL.csproj",
+        "projectName": "MISA.HCSN.BL",
+        "projectPath": "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.BL\\MISA.HCSN.BL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.Common\\MISA.HCSN.Common.csproj": {
+                "projectPath": "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.Common\\MISA.HCSN.Common.csproj"
+              },
+              "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.DL\\MISA.HCSN.DL.csproj": {
+                "projectPath": "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.DL\\MISA.HCSN.DL.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.Common\\MISA.HCSN.Common.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.Common\\MISA.HCSN.Common.csproj",
+        "projectName": "MISA.HCSN.Common",
+        "projectPath": "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.Common\\MISA.HCSN.Common.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.DL\\MISA.HCSN.DL.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.DL\\MISA.HCSN.DL.csproj",
+        "projectName": "MISA.HCSN.DL",
+        "projectPath": "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.DL\\MISA.HCSN.DL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.Common\\MISA.HCSN.Common.csproj": {
+                "projectPath": "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.Common\\MISA.HCSN.Common.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.Web07.NXHuy.HCSN.API\\MISA.Web07.NXHuy.HCSN.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.Web07.NXHuy.HCSN.API\\MISA.Web07.NXHuy.HCSN.API.csproj",
+        "projectName": "MISA.Web07.NXHuy.HCSN.API",
+        "projectPath": "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.Web07.NXHuy.HCSN.API\\MISA.Web07.NXHuy.HCSN.API.csproj",
+        "packagesPath": "C:\\Users\\HUY.NX183556\\.nuget\\packages\\",
+        "outputPath": "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.Web07.NXHuy.HCSN.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HUY.NX183556\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.BL\\MISA.HCSN.BL.csproj": {
+                "projectPath": "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.BL\\MISA.HCSN.BL.csproj"
+              },
+              "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.Common\\MISA.HCSN.Common.csproj": {
+                "projectPath": "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.Common\\MISA.HCSN.Common.csproj"
+              },
+              "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.DL\\MISA.HCSN.DL.csproj": {
+                "projectPath": "D:\\Misa_QLTS\\Misa_QLTS\\backend\\MISA.Web07.NXHuy.HCSN\\MISA.HCSN.DL\\MISA.HCSN.DL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.1.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

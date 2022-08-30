@@ -5,18 +5,19 @@
    
   
 </div>
-  
+  <Dialog/>
 </template>
 
 <script>
 
 import Navbar from './components/page-left/TheNavbar.vue'
 import PageRight from './components/page-right/ThePageRight.vue'
+import Dialog from './components/page-right/TheDialog.vue'
 
 export default {
   name: 'App',
   components: {
-    Navbar,PageRight
+    Navbar,PageRight,Dialog
   }
 }
 </script>

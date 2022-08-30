@@ -24,6 +24,7 @@ thead th{
 tbody tr{
     height: 40px;
     border-bottom: 1px solid #0000001a;
+    position: relative;
 }
 tbody td th{
     text-align: left;
@@ -31,5 +32,17 @@ tbody td th{
 .table-footer{
     height: 40px;
     display: flex;
-    background-color: red;
+    position: sticky;
+    bottom: 0;
+    z-index: 1;
+}
+
+.footer-left{
+    margin-left: 16px;
+    display: flex;
+    text-align: left;
+    align-items: center;
+    position:fixed;
+    bottom: 20px;
+  
 }

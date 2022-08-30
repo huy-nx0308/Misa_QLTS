@@ -7,7 +7,7 @@
                         <th>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                               <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </th>
                         <th>STT</th>
@@ -28,7 +28,7 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -45,7 +45,7 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -62,7 +62,7 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -79,7 +79,7 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -96,7 +96,25 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
+                            </div>
+                        </td>
+                         <td>1</td>
+                        <td>55H7WN72/2022</td>
+                        <td>Dell Inspiron 3467</td>
+                        <td>Máy vi tính xách tay</td>
+                        <td>Phòng Hành chính Kế toán</td>
+                        <td>1</td>
+                        <td>20.000.000</td>
+                        <td>894.000</td>
+                        <td>19.106.000</td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <div >
+                                <label class="checkbox"></label>
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -113,7 +131,7 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -130,7 +148,7 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -147,7 +165,7 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -164,7 +182,7 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -181,7 +199,7 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -198,7 +216,7 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -215,7 +233,23 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
+                            </div>
+                        </td>
+                         <td>1</td>
+                        <td>55H7WN72/2022</td>
+                        <td>Dell Inspiron 3467</td>
+                        <td>Máy vi tính xách tay</td>
+                        <td>Phòng Hành chính Kế toán</td>
+                        <td>1</td>
+                        <td>20.000.000</td>
+                        <td>894.000</td>
+                        <td>19.106.000</td>
+                    </tr><tr>
+                        <td>
+                            <div >
+                                <label class="checkbox"></label>
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -232,7 +266,7 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -249,7 +283,7 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -266,7 +300,7 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -283,7 +317,7 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -300,7 +334,7 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -317,7 +351,7 @@
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -330,11 +364,12 @@
                         <td>894.000</td>
                         <td>19.106.000</td>
                     </tr>
-                    <tr>
+
+                     <tr>
                         <td>
                             <div >
                                 <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
+                                <input type="checkbox" style="cursor: pointer; margin-left: 16px;">
                             </div>
                         </td>
                          <td>1</td>
@@ -347,41 +382,14 @@
                         <td>894.000</td>
                         <td>19.106.000</td>
                     </tr>
-                    <tr>
-                        <td>
-                            <div >
-                                <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
-                            </div>
-                        </td>
-                         <td>1</td>
-                        <td>55H7WN72/2022</td>
-                        <td>Dell Inspiron 3467</td>
-                        <td>Máy vi tính xách tay</td>
-                        <td>Phòng Hành chính Kế toán</td>
-                        <td>1</td>
-                        <td>20.000.000</td>
-                        <td>894.000</td>
-                        <td>19.106.000</td>
+                    
+                    <tr class="table-footer" >
+                        <td colspan="6"></td>
                     </tr>
-                    <tr>
-                        <td>
-                            <div >
-                                <label class="checkbox"></label>
-                                <input type="checkbox" style="cursor: pointer;">
-                            </div>
-                        </td>
-                         <td>1</td>
-                        <td>55H7WN72/2022</td>
-                        <td>Dell Inspiron 3467</td>
-                        <td>Máy vi tính xách tay</td>
-                        <td>Phòng Hành chính Kế toán</td>
-                        <td>1</td>
-                        <td>20.000.000</td>
-                        <td>894.000</td>
-                        <td>19.106.000</td>
-                    </tr>
-                   
+                    <div class="footer-left">
+                            <p>Tổng số  <span style="font-weight: bold;">200</span> bản ghi</p>
+                           
+                    </div>
                     
                 </tbody>
             </table>

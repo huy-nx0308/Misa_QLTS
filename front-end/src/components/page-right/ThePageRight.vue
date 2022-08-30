@@ -5,7 +5,7 @@
         <div class="page-right-body">
             <Filter></Filter>
             <Content></Content>
-
+         
         </div>
         
         
@@ -15,6 +15,7 @@
 import Header from './TheHeader'
 import Filter from './TheFilter.vue'
 import Content from './TheContent.vue'
+
 
 export default {
     components:{
