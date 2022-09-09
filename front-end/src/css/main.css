@@ -34,6 +34,11 @@ body{
 .set-width-navbar{
   width: 66px !important;
 }
+
+.set-width-page-right{
+  width: calc(100% - 66px) !important;
+}
+
 ::-webkit-scrollbar {
     background-color: #cdd3d6;
     border-radius: 1px;

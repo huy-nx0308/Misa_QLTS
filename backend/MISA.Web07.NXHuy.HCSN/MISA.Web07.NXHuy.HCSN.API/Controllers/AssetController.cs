@@ -93,7 +93,7 @@ namespace MISA.Web07.NXHuy.HCSN.API.Controllers
                 var FixedAssetId = new Guid();
                 var parameters = new DynamicParameters();
                 parameters.Add("@FixedAssetId", FixedAssetId);
-                parameters.Add("@FixAssetCode", asset.FixedAssetCode);
+                parameters.Add("@FixedAssetCode", asset.FixedAssetCode);
                 parameters.Add("@FixedAssetName", asset.FixedAssetName);
                 parameters.Add("@DepartmentId", asset.DepartmentId);
                 parameters.Add("@DepartmentCode", asset.DepartmentCode);

@@ -26,7 +26,7 @@
             </div>
         </div>
         <div class="filter-right">
-            <button class="btn btn-add">
+            <button class="btn btn-add" @click="btnShowDialog">
                 <div class="btn-add-container">
                     <div class="icon-plus"></div>
                     <div class="btn-add-text">Thêm tài sản</div>
@@ -41,10 +41,36 @@
                 <div class="icon-delete"></div>
             </button>
         </div>
+        <Dialog v-if="isShowDialog" />
     </div>
+    
 </template>
 <script>
+import Dialog from './TheDialog.vue'
 export default {
-    name : "TheFilter"
+    
+    name : "TheFilter",
+    components: {
+        Dialog
+    },
+    data(){
+        return{
+            isShowDialog: false,
+        };
+    },
+
+    methods:{
+        //bấm add show dialog
+        btnShowDialog(){
+            try {
+                this.isShowDialog = true;
+                
+                
+            } catch (error) {
+                console.log(error);
+            }
+        }
+    },
+
 }
 </script>

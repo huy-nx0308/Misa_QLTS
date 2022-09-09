@@ -5,10 +5,20 @@
     top:50%;
     transform: translate(-50%,-50%);
     border-radius: 3px;
-    z-index: 99999;
-    background-color: #fff;
-    display: none;
     
+    background-color: #fff;
+
+    
+   
+}
+.dialog-handle{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background-color: #0000007a;
+    z-index: 1000;
    
 }
 .dialog-header{
@@ -22,9 +32,17 @@
     margin: 0 15px;
   
 }
+.dialog-body-row{
+    display: flex;
+}
 .row-text{
     font-size: 13px;
     margin: 8px 0;
+    font-family: Roboto-regular;
+}
+.row-input{
+    padding-left: 14px;
+    width: 200px;
 }
 .text-error{
     color: red;
@@ -36,17 +54,14 @@
     width: 100%;
 }
 .dialog-footer{
-    margin: 0 15px;
+   
+    display: flex;
+    height: 66px;
+    background-color:#f5f5f5;
+    align-items: center;
+    justify-content: right;
 }
-.dialog-handle{
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    top: 0;
-    background-color: #0000007a;
-    z-index: 1000;
-}
+
 
 
 

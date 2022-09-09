@@ -72,3 +72,9 @@
     display: flex;
     align-items: center;
 }
+.nav-content-item:hover{
+    background-color: #1aa4c8;
+}
+.nav-content-item-active{
+    background-color: red !important;
+}

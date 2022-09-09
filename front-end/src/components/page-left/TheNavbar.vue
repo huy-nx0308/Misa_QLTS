@@ -11,9 +11,9 @@
                 <div class="nav-content-icon icon-overview"></div>
                 <div class="nav-content-text"  v-show="!isShowNavbar">Tổng quan</div>
             </div>
-            <div class="nav-content-item">
-                <div class="nav-content-icon icon-asset"></div>
-                <div class="nav-content-text"  v-show="!isShowNavbar">Tài sản</div>
+            <div  class="nav-content-item"  style="background-color:#1aa4c8">
+                <div  class=" nav-content-icon icon-asset icon-asset-clicked" ></div>
+                <div class="nav-content-text"  v-show="!isShowNavbar" >Tài sản</div>
                 <div class="nav-icon-down icon-drop_down"  v-show="!isShowNavbar"></div>
                 
             </div>
@@ -21,7 +21,7 @@
                 <div class="nav-content-icon icon-asset1"></div>
                 <div class="nav-content-text"  v-show="!isShowNavbar">Tài sản HT-ĐB</div>
                 <div class="nav-icon-down icon-drop_down"  v-show="!isShowNavbar"></div>
-            </div>
+            </div> 
             <div class="nav-content-item">
                 <div class="nav-content-icon icon-tool"></div>
                 <div class="nav-content-text"  v-show="!isShowNavbar">Công cụ dụng cụ</div>
@@ -55,21 +55,37 @@ export default {
     data(){
         return{
             isShowNavbar: false,
+            isActive: false,
+
         };
     },
-    /*  
-    hàm xử lý co Navbar
-    */ 
+   
     methods: {
+         /*  
+            hàm xử lý co Navbar
+        */ 
        resizeNavbar(){
             try {
                 this.isShowNavbar = true;
+                this.emitter.emit("set-width-page-right");
                 
+            } catch (error) {
+                console.log(error);
+            }
+       },
+
+       /*
+       hàm xử lý khi được icon tài sản được click vào
+       */
+       isClicked(){
+            try {
+                this.isActive = true;
                 
             } catch (error) {
                 console.log(error);
             }
        }
+
     }
    
     

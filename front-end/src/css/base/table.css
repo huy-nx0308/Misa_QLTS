@@ -20,6 +20,8 @@ thead{
 }
 thead th{
     text-align: left;
+    position: sticky;
+    top: 0;
 }
 tbody tr{
     height: 40px;

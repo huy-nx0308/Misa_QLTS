@@ -12,9 +12,9 @@
 	width: 22px;
 	height: 22px;
 }
-/*icon tổng quan khi đượcclick vào */
+/*icon tổng quan khi được click vào */
 .icon-overview-clicked{
-    background: url('../../assets/icon/qlts-icon.svg') no-repeat -22px -198px;
+    background: url('../../assets/icon/qlts-icon.svg') no-repeat -22px -198px !important; 
 	width: 20px;
 	height: 21px;
 }
@@ -27,7 +27,7 @@
 
 /*icon tài sản khi được click vào*/
 .icon-asset-clicked{
-    background: url('../../assets/icon/qlts-icon.svg') no-repeat -65px -197px;
+    background: url('../../assets/icon/qlts-icon.svg') no-repeat -65px -197px !important;
 	width: 22px;
 	height: 23px;
 }
@@ -42,7 +42,7 @@
 
 /*icon tài sản HT-ĐB khi được click vào*/
 .icon-asset1-clicked{
-    background: url('../../assets/icon/qlts-icon.svg') no-repeat -110px -197px;
+    background: url('../../assets/icon/qlts-icon.svg') no-repeat -110px -197px !important;
 	width: 21px;
 	height: 22px;
 }
@@ -57,7 +57,7 @@
 
 /*icon công cụ dụng cụ khi được click vào*/
 .icon-tool-clicked{
-    background: url('../../assets/icon/qlts-icon.svg') no-repeat -153px -197px;
+    background: url('../../assets/icon/qlts-icon.svg') no-repeat -153px -197px !important;
 	width: 22px;
 	height: 22px;
 }
@@ -71,7 +71,7 @@
 
 /*icon danh mục  khi được click vào*/
 .icon-category-clicked{
-    background: url('../../assets/icon/qlts-icon.svg') no-repeat -198px -200px;
+    background: url('../../assets/icon/qlts-icon.svg') no-repeat -198px -200px !important;
 	width: 20px;
 	height: 17px;
 }
@@ -85,7 +85,7 @@
 
 /*icon tra cứu khi được click vào*/
 .icon-search-clicked{
-    background: url('../../assets/icon/qlts-icon.svg') no-repeat -240px -196px;
+    background: url('../../assets/icon/qlts-icon.svg') no-repeat -240px -196px !important;
 	width: 23px;
 	height: 23px;
 }
@@ -99,7 +99,7 @@
 
 /*icon báo cáo khi được click vào*/
 .icon-report-clicked{
-    background: url('../../assets/icon/qlts-icon.svg') no-repeat -330px -198px;
+    background: url('../../assets/icon/qlts-icon.svg') no-repeat -330px -198px !important;
 	width: 20px;
 	height: 20px;
 }
@@ -192,6 +192,13 @@
 
  .icon-close{
 	background: url('../../assets/icon/qlts-icon.svg') no-repeat -375px -287px;
+	width: 18px;
+	height: 18px;
+	cursor: pointer;
+ }
+ 
+ .icon-calendar{
+	background: url('../../assets/icon/qlts-icon.svg') no-repeat -287px -67px;
 	width: 18px;
 	height: 18px;
 	cursor: pointer;
